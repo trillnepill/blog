@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://ihatereality.space/</loc>
+        <loc>https://trillnepill.github.io/blog/</loc>
     </url>
     <url>
-        <loc>https://ihatereality.space/about/</loc>
+        <loc>https://trillnepill.github.io/blog/about/</loc>
     </url>
     <url>
-        <loc>https://ihatereality.space/devlog-00/</loc>
+        <loc>https://trillnepill.github.io/blog/devlog-00/</loc>
         <lastmod>2023-04-02</lastmod>
     </url>
     <url>
-        <loc>https://ihatereality.space/devlog-01/</loc>
+        <loc>https://trillnepill.github.io/blog/devlog-01/</loc>
         <lastmod>2023-04-07</lastmod>
     </url>
     <url>
-        <loc>https://ihatereality.space/devlog-02/</loc>
+        <loc>https://trillnepill.github.io/blog/devlog-02/</loc>
         <lastmod>2023-04-14</lastmod>
     </url>
     <url>
-        <loc>https://ihatereality.space/devlog-03/</loc>
+        <loc>https://trillnepill.github.io/blog/devlog-03/</loc>
         <lastmod>2023-04-21</lastmod>
     </url>
     <url>
-        <loc>https://ihatereality.space/tags/</loc>
+        <loc>https://trillnepill.github.io/blog/tags/</loc>
     </url>
     <url>
-        <loc>https://ihatereality.space/tags/devlog/</loc>
+        <loc>https://trillnepill.github.io/blog/tags/devlog/</loc>
     </url>
 </urlset>

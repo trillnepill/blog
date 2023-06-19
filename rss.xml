@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-      <title>I hate reality</title>
-        <link>https://ihatereality.space</link>
+      <title>nothingd3v</title>
+        <link>https://trillnepill.github.io/blog/</link>
         <description></description>
         <generator>Zola</generator>
-        <language>en</language>
-        <atom:link href="https://ihatereality.space/rss.xml" rel="self" type="application/rss+xml"/>
+        <language>ru</language>
+        <atom:link href="https://trillnepill.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/>
         <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
         <item>
             <title>Waffle Devlog 3</title>
             <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-            <link>https://ihatereality.space/devlog-03/</link>
-            <guid>https://ihatereality.space/devlog-03/</guid>
+            <link>https://trillnepill.github.io/blog/devlog-03/</link>
+            <guid>https://trillnepill.github.io/blog/devlog-03/</guid>
             <description>&lt;p&gt;This week was something else! There is a lot I’ve done this week (2023-04-17—2023-04-21). This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things, but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Waffle Devlog 2</title>
             <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-            <link>https://ihatereality.space/devlog-02/</link>
-            <guid>https://ihatereality.space/devlog-02/</guid>
+            <link>https://trillnepill.github.io/blog/devlog-02/</link>
+            <guid>https://trillnepill.github.io/blog/devlog-02/</guid>
             <description>&lt;p&gt;Blah. Things I’ve done this week (2023-04-10—2023-04-14). This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things, but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
 </description>
         </item>
         <item>
             <title>Waffle Devlog 1</title>
             <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-            <link>https://ihatereality.space/devlog-01/</link>
-            <guid>https://ihatereality.space/devlog-01/</guid>
+            <link>https://trillnepill.github.io/blog/devlog-01/</link>
+            <guid>https://trillnepill.github.io/blog/devlog-01/</guid>
             <description>&lt;p&gt;Is this week already over? That fast? In this economy?
 Anyway, things I’ve done this week (2023-04-03—2023-04-07).
 This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things™,
@@ -38,8 +38,8 @@ but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
         <item>
             <title>Waffle Devlog 0</title>
             <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-            <link>https://ihatereality.space/devlog-00/</link>
-            <guid>https://ihatereality.space/devlog-00/</guid>
+            <link>https://trillnepill.github.io/blog/devlog-00/</link>
+            <guid>https://trillnepill.github.io/blog/devlog-00/</guid>
             <description>&lt;p&gt;Things I’ve done this week (2023-03-27—2023-03-31). This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things™ but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
 </description>
         </item>
