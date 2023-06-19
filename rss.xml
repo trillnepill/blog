@@ -43,13 +43,5 @@ but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
             <description>&lt;p&gt;Things I’ve done this week (2023-03-27—2023-03-31). This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things™ but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
 </description>
         </item>
-        <item>
-            <title>Why null sucks, even if it&#x27;s checked</title>
-            <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-            <link>https://ihatereality.space/01-why-null-sucks/</link>
-            <guid>https://ihatereality.space/01-why-null-sucks/</guid>
-            <description>&lt;p&gt;We all know that &lt;code&gt;null&lt;&#x2F;code&gt; is a &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Null_pointer#History&quot;&gt;“billion-dollar mistake”&lt;&#x2F;a&gt;, that it creates a lot of easy ways to make terrible mistakes. But it’s only so bad when it’s not checked by anyone and the compiler doesn’t force you to check it, right? Well, the title might be a spoiler, but let’s find out…&lt;&#x2F;p&gt;
-</description>
-        </item>
     </channel>
 </rss>
