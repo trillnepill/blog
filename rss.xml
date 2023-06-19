@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>I hate reality</title>
+        <link>https://ihatereality.space</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://ihatereality.space/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Waffle Devlog 3</title>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+            <link>https://ihatereality.space/devlog-03/</link>
+            <guid>https://ihatereality.space/devlog-03/</guid>
+            <description>&lt;p&gt;This week was something else! There is a lot I’ve done this week (2023-04-17—2023-04-21). This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things, but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Waffle Devlog 2</title>
+            <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+            <link>https://ihatereality.space/devlog-02/</link>
+            <guid>https://ihatereality.space/devlog-02/</guid>
+            <description>&lt;p&gt;Blah. Things I’ve done this week (2023-04-10—2023-04-14). This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things, but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Waffle Devlog 1</title>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+            <link>https://ihatereality.space/devlog-01/</link>
+            <guid>https://ihatereality.space/devlog-01/</guid>
+            <description>&lt;p&gt;Is this week already over? That fast? In this economy?
+Anyway, things I’ve done this week (2023-04-03—2023-04-07).
+This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things™,
+but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Waffle Devlog 0</title>
+            <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+            <link>https://ihatereality.space/devlog-00/</link>
+            <guid>https://ihatereality.space/devlog-00/</guid>
+            <description>&lt;p&gt;Things I’ve done this week (2023-03-27—2023-03-31). This is mostly a log for &lt;em&gt;myself&lt;&#x2F;em&gt; so that I remember that I did things™ but you may be interested in reading it too, for whatever reason.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Everybody needs a place (and time) to pause</title>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+            <link>https://ihatereality.space/03-a-place-to-pause/</link>
+            <guid>https://ihatereality.space/03-a-place-to-pause/</guid>
+            <description>&lt;p&gt;As you may know, I have a (russian) &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;ihatereality&quot;&gt;telegram channel&lt;&#x2F;a&gt;. One day I had a random thought about something I could make there. Now it became a tradition…&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>You wouldn&#x27;t use `filter_map`, right?</title>
+            <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+            <link>https://ihatereality.space/02-you-would-not-use-filter-map/</link>
+            <guid>https://ihatereality.space/02-you-would-not-use-filter-map/</guid>
+            <description>&lt;p&gt;There is a function &lt;code&gt;Iterator::filter_map&lt;&#x2F;code&gt;. I want to argue that it’s useless and Rust provides more powerful tools to replace it.&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Why null sucks, even if it&#x27;s checked</title>
+            <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+            <link>https://ihatereality.space/01-why-null-sucks/</link>
+            <guid>https://ihatereality.space/01-why-null-sucks/</guid>
+            <description>&lt;p&gt;We all know that &lt;code&gt;null&lt;&#x2F;code&gt; is a &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Null_pointer#History&quot;&gt;“billion-dollar mistake”&lt;&#x2F;a&gt;, that it creates a lot of easy ways to make terrible mistakes. But it’s only so bad when it’s not checked by anyone and the compiler doesn’t force you to check it, right? Well, the title might be a spoiler, but let’s find out…&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
