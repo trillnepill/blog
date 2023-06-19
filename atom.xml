@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
+	<title>nothingd3v</title>
+	<link href="https://trillnepill.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://trillnepill.github.io/blog/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-06-19T00:00:00+00:00</updated>
+	<id>https://trillnepill.github.io/blog/atom.xml</id>
+	<entry xml:lang="ru">
+		<title>Nothing Devlog 0.0</title>
+		<published>2023-06-19T00:00:00+00:00</published>
+		<updated>2023-06-19T00:00:00+00:00</updated>
+		<link href="https://trillnepill.github.io/blog/devlog-00/" type="text/html"/>
+		<id>https://trillnepill.github.io/blog/devlog-00/</id>
+		<content type="html">&lt;p&gt;неделя подходит к концу, а значит нужно подводить итоги! довольно много работы я успел проделать за (2023-06-15—2023-06-19). этот блог был создан больше для себя, но все же я думаю некоторым людям интересно почитать что-либо от других людей для получения вдохновения.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h1 id=&quot;okei-pervyi-post&quot;&gt;Окей, первый пост.&lt;a class=&quot;zola-anchor&quot; href=&quot;#okei-pervyi-post&quot; aria-label=&quot;Anchor link for: okei-pervyi-post&quot;&gt;⌗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;Ни че го&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
