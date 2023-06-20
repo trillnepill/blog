@@ -6,4 +6,4 @@ path = "about"
 hide_page_meta = true
 +++
 
-nothing here because i need more time to setup all.
+nothing here because i need more time to setup all..
