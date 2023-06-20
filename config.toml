@@ -54,6 +54,7 @@ menu_items = [
     #{name = "tags", url = "$BASE_URL/tags"},
 
     {name = "about", url = "$BASE_URL/about"},
+    {name = "fiverr", url = "https://www.fiverr.com/nothingd3v/do-quality-frontend-development-for-an-adequate-price"},
     {name = "source", url = "https://github.com/trillnepill/blog", newtab = true},
 ]
 
